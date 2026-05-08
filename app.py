@@ -15,7 +15,7 @@ def main():
         st.image("Screenshot 2026-04-06 190946.jpg")
     
     # Your updated title
-    st.title("Subrahmanya")
+    st.title("divya")
     st.subheader("AI Audio Translation Hub")
     
     # Audio recorder component
